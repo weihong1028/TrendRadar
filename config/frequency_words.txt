@@ -9,6 +9,16 @@ llm
 Large Language Model
 !gai
 
+workflow
+工作流
+n8n
+coze
+Zapier
+Make
+Dify
+Fastgpt
+Ragflow
+
 Gemini
 Gemini Pro
 Gemini Ultra
