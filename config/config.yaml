@@ -30,7 +30,7 @@ report:
 
 notification:
   enable_notification: true # 是否启用通知功能，如果 false，则不发送手机通知
-  message_batch_size: 4000 # 消息分批大小（字节）(这个配置别动)
+  message_batch_size: 6000 # 消息分批大小（字节）(这个配置别动)
   dingtalk_batch_size: 20000 # 钉钉消息分批大小（字节）(这个配置也别动)
   feishu_batch_size: 29000 # 飞书消息分批大小（字节）
   batch_send_interval: 3 # 批次发送间隔（秒）
@@ -77,30 +77,30 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
-  - id: "toutiao"
-    name: "今日头条"
-  - id: "baidu"
-    name: "百度热搜"
+#  - id: "toutiao"
+#    name: "今日头条"
+#  - id: "baidu"
+#    name: "百度热搜"
   - id: "wallstreetcn-hot"
     name: "华尔街见闻"
   - id: "thepaper"
     name: "澎湃新闻"
-  - id: "bilibili-hot-search"
-    name: "bilibili 热搜"
-  - id: "cls-hot"
-    name: "财联社热门"
-  - id: "ifeng"
-    name: "凤凰网"
-  - id: "tieba"
-    name: "贴吧"
-  - id: "weibo"
-    name: "微博"
-  - id: "douyin"
-    name: "抖音"
+#  - id: "bilibili-hot-search"
+#    name: "bilibili 热搜"
+#  - id: "cls-hot"
+#    name: "财联社热门"
+#  - id: "ifeng"
+#    name: "凤凰网"
+#  - id: "tieba"
+#    name: "贴吧"
+#  - id: "weibo"
+#    name: "微博"
+#  - id: "douyin"
+#    name: "抖音"
   - id: "zhihu"
     name: "知乎"
-  - id: "ithome"
-    name: "IT之家"
+#  - id: "ithome"
+#    name: "IT之家"
   - id: "juejin"
     name: "掘金"
   - id: "github"
@@ -111,10 +111,10 @@ platforms:
     name: "Solidot"
   - id: "v2ex"
     name: "V2EX"
-  - id: "nowcoder"
-    name: "牛客网"
-  - id: "pcbeta"
-    name: "远景论坛"
+#  - id: "nowcoder"
+#    name: "牛客网"
+#  - id: "pcbeta"
+#    name: "远景论坛"
   - id: "sspai"
     name: "少数派"
   - id: "producthunt"
