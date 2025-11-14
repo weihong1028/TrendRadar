@@ -2,40 +2,33 @@ ai
 人工智能
 机器学习
 深度学习
-!gai
-
-model
-模型
-!车模
-!手办模型
+agent
+a2a
 llm
 大模型
 Large Language Model
+!gai
 
-谷歌
-Google
 Gemini
 Gemini Pro
 Gemini Ultra
-Bard
-!Gemini Man
 DeepMind
 AlphaGo
 AlphaFold
 
 gpt
 chatgpt
-ChatGPT
 GPT-5
 GPT-4
 OpenAI
 Sora
 DALL-E
-Sam Altman
+
+DeepSeek
+深度求索
 
 claude
 Claude code
-Claude 3
 Anthropic
 
 glm
@@ -43,7 +36,6 @@ GLM
 GLM-4
 ChatGLM
 智谱AI
-智谱清言
 
 hunyuan
 混元
@@ -52,8 +44,7 @@ hunyuan
 元宝
 腾讯元宝
 yuanbao
-codebuddycn
-codebuddy cn
+codebuddy
 
 cursor
 Cursor编辑器
@@ -61,12 +52,7 @@ Cursor IDE
 !鼠标
 
 文心一言
-百度
 文心大模型
-ERNIE
-ERNIE Bot
-李彦宏
-!心言
 
 通义千问
 Qwen
@@ -79,22 +65,10 @@ Qwen-72B
 Moonshot AI
 Kimi
 Kimi Chat
-杨植麟
-!moonshot
-
-DeepSeek
-深度求索
-梁文锋
-DeepSeek V3
 
 字节跳动
 豆包
 Doubao
 trae
 trae 编辑器
-
-MiniMax
-ABAB
-ABAB-6.5
-海螺AI
-mini max
+!traefik
