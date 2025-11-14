@@ -23,6 +23,7 @@ DeepMind
 AlphaGo
 AlphaFold
 
+gpt
 chatgpt
 ChatGPT
 GPT-5
@@ -31,15 +32,11 @@ OpenAI
 Sora
 DALL-E
 Sam Altman
-!chatgtp
-!gpt
 
 claude
 Claude code
 Claude 3
 Anthropic
-!claude monet
-!Claude Monet
 
 glm
 GLM
@@ -47,26 +44,21 @@ GLM-4
 ChatGLM
 智谱AI
 智谱清言
-!glm r
 
 hunyuan
 混元
 混元大模型
 腾讯混元
-!混元纪
-codebuddycn
-codebuddy cn
-
 元宝
 腾讯元宝
-YuanBao
-!元宝汤
+yuanbao
+codebuddycn
+codebuddy cn
 
 cursor
 Cursor编辑器
 Cursor IDE
-!cursor pointer
-!鼠标光标
+!鼠标
 
 文心一言
 百度
@@ -94,29 +86,15 @@ DeepSeek
 深度求索
 梁文锋
 DeepSeek V3
-!deep sea
-!深度搜索
 
 字节跳动
 豆包
 Doubao
-抖音
-!字节
-跳动
 trae
 trae 编辑器
 
 MiniMax
 ABAB
 ABAB-6.5
-星野
 海螺AI
-!mini max
-!mini
-
-商汤科技
-SenseChat
-日日新
-商汤
-!商汤科技股价
-!sense
+mini max
