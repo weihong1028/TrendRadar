@@ -25,10 +25,8 @@ AlphaFold
 
 chatgpt
 ChatGPT
+GPT-5
 GPT-4
-GPT-4o
-GPT-4 Turbo
-GPT-3.5
 OpenAI
 Sora
 DALL-E
@@ -37,7 +35,7 @@ Sam Altman
 !gpt
 
 claude
-Claude
+Claude code
 Claude 3
 Anthropic
 !claude monet
@@ -51,11 +49,15 @@ ChatGLM
 智谱清言
 !glm r
 
+腾讯
+腾讯大模型
 hunyuan
 混元
 混元大模型
 腾讯混元
 !混元纪
+codebuddycn
+codebuddy cn
 
 元宝
 腾讯元宝
@@ -106,6 +108,8 @@ Doubao
 抖音
 !字节
 跳动
+trae
+trae 编辑器
 
 MiniMax
 ABAB
